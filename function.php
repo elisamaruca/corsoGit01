@@ -1,4 +1,4 @@
-VERSIONE PER GITHUB
+VERSIONE PER GITHUB e rivista da christian
 <php
 
 function addizione (n1,n2){
